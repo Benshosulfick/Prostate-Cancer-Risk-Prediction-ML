@@ -75,7 +75,7 @@ These metrics help determine the best model for predicting prostate cancer risk.
 
 📷 Project Results
 
-Accuracy Comparison Graph
+📊 Accuracy Comparison Graph
 
 1.TCGA
 <img width="3000" height="1500" alt="accuracy1_graph_sorted" src="https://github.com/user-attachments/assets/3314652a-1ef7-4fdc-9db2-eeadc140999d" />
@@ -88,7 +88,7 @@ Accuracy Comparison Graph
 
 
 
-Confusion Matrix
+🔢 Confusion Matrix
 1. TCGA
 <img width="1800" height="1500" alt="confusion1_matrix_latest_dataset" src="https://github.com/user-attachments/assets/4960bdb8-874b-4305-854e-26a1cb0a6fa5" />
 
