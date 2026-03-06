@@ -1,0 +1,241 @@
+Study ID	Patient ID	Sample ID	Cancer Type	Cancer Type Detailed	Neoplasm American Joint Committee on Cancer Clinical Primary Tumor T Stage	Complete Data	Copy Number Cluster	Disease Free (Months)	Disease Free Status	ERG Fusion ACGH	ERG Fusion GEX	Fraction Genome Altered	Radical Prostatectomy Gleason Score for Prostate Cancer	Radical Prostatectomy Gleason Score for Prostate Cancer	Radical Prostatectomy Gleason Score for Prostate Cancer	Mutation Count	Oncotree Code	Overall Survival (Months)	Overall Survival Status	American Joint Committee on Cancer Tumor Stage Code	Sample Class	Number of Samples Per Patient	Sample Type	Sequenced	Sequencing	Sex	Somatic Status	TMB (nonsynonymous)
+prad_mskcc	CWR22Rv1	CWR22Rv1	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	0.4136	NA	NA	NA	10	PRAD	NA	NA	NA	Cell line	1	NA	Yes	Sanger and Sequenom	Male	Matched	26.24775254
+prad_mskcc	DU145	DU145	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	Not_Assessed	0.4302	NA	NA	NA	10	PRAD	NA	NA	NA	Cell line	2	NA	No	Sanger and Sequenom	Male	Matched	26.24775254
+prad_mskcc	DU145	DU145T	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	Not_Assessed	NA	NA	NA	NA	1	PRAD	NA	NA	NA	Cell line	2	NA	No	NA	Male	Matched	0.033333333
+prad_mskcc	LAPC14-5748	LAPC14-5748	Prostate Cancer	Prostate Adenocarcinoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	PRAD	NA	NA	NA	NA	1	NA	NA	NA	Male	NA	0.1
+prad_mskcc	LAPC14-5749	LAPC14-5749	Prostate Cancer	Prostate Adenocarcinoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	PRAD	NA	NA	NA	NA	1	NA	NA	NA	Male	NA	0.133333333
+prad_mskcc	LAPC17	LAPC17	Prostate Cancer	Prostate Adenocarcinoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	PRAD	NA	NA	NA	NA	1	NA	NA	NA	Male	NA	0.2
+prad_mskcc	LAPC23	LAPC23	Prostate Cancer	Prostate Adenocarcinoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	PRAD	NA	NA	NA	NA	1	NA	NA	NA	Male	NA	0.033333333
+prad_mskcc	LAPC25	LAPC25	Prostate Cancer	Prostate Adenocarcinoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	PRAD	NA	NA	NA	NA	1	NA	NA	NA	Male	NA	0.033333333
+prad_mskcc	LAPC3-1	LAPC3-1	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	0.5730	NA	NA	NA	NA	PRAD	NA	NA	NA	Xenograft	1	NA	Yes	Sanger and Sequenom	Male	Matched	0
+prad_mskcc	LAPC3-2	LAPC3-2	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	NA	NA	NA	NA	NA	PRAD	NA	NA	NA	Xenograft	1	NA	No	No	Male	Matched	NA
+prad_mskcc	LAPC4-1	LAPC4-1	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	0.1027	NA	NA	NA	30	PRAD	NA	NA	NA	Xenograft	1	NA	Yes	Sanger and Sequenom	Male	Matched	78.74325761
+prad_mskcc	LAPC4-1T	LAPC4-1T	Prostate Cancer	Prostate Adenocarcinoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	PRAD	NA	NA	NA	NA	1	NA	NA	NA	Male	NA	0.033333333
+prad_mskcc	LAPC4-2	LAPC4-2	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	NA	NA	NA	NA	NA	PRAD	NA	NA	NA	Xenograft	1	NA	No	No	Male	Matched	NA
+prad_mskcc	LAPC9	LAPC9	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	0.0791	NA	NA	NA	12	PRAD	NA	NA	NA	Xenograft	1	NA	Yes	Sanger and Sequenom	Male	Matched	31.49730304
+prad_mskcc	LNCaP	LNCaP	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	Not_Assessed	0.1735	NA	NA	NA	38	PRAD	NA	NA	NA	Cell line	1	NA	Yes	Sanger and Sequenom	Male	Matched	97.11668438
+prad_mskcc	LNCaP104R	LNCaP104R	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	NA	Not_Assessed	NA	NA	NA	NA	NA	PRAD	NA	NA	NA	Cell line	1	NA	No	No	Male	Matched	NA
+prad_mskcc	LNCaP104S	LNCaP104S	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	Not_Assessed	0.4945	NA	NA	NA	52	PRAD	NA	NA	NA	Cell line	1	NA	Yes	Sanger and Sequenom	Male	Matched	133.8635379
+prad_mskcc	LNM971	LNM971	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	0.3323	NA	NA	NA	50	PRAD	NA	NA	NA	Xenograft	1	NA	Yes	Sanger and Sequenom	Male	Matched	128.6139874
+prad_mskcc	LuCAP35	LuCAP35	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	0.7508	NA	NA	NA	1	PRAD	NA	NA	NA	Xenograft	2	NA	Yes	Sanger and Sequenom	Male	Matched	2.624775254
+prad_mskcc	LuCAP35	LuCAP35T	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	NA	NA	NA	NA	NA	1	PRAD	NA	NA	NA	Xenograft	2	NA	Yes	NA	Male	Matched	0.033333333
+prad_mskcc	PC3	PC3	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Not_Assessed	Not_Assessed	0.6651	NA	NA	NA	1	PRAD	NA	NA	NA	Cell line	1	NA	Yes	Sanger and Sequenom	Male	Matched	2.624775254
+prad_mskcc	PCA0001	PCA0001	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	6	18.5	1:Recurred	Negative	Negative	0.1828	7	4	3	NA	PRAD	NA	NA	T3C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0002	PCA0002	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	58.02	0:DiseaseFree	Negative	Positive	0.0761	8	5	3	6	PRAD	NA	NA	T2A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	15.74865152
+prad_mskcc	PCA0003	PCA0003	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	93.14	0:DiseaseFree	Negative	Negative	0.0019	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0004	PCA0004	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	1	152.55	0:DiseaseFree	Negative	NA	0.0256	7	3	4	1	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0005	PCA0005	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	126.1	0:DiseaseFree	Positive	Positive	0.0729	7	3	4	1	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0006	PCA0006	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	4	160.96	0:DiseaseFree	Negative	NA	0.0293	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0007	PCA0007	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	98.6	0:DiseaseFree	Negative	Negative	0.0404	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0008	PCA0008	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	4	149.19	0:DiseaseFree	Negative	Negative	0.0551	6	3	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0009	PCA0009	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	3	64.76	1:Recurred	Negative	Negative	0.0091	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0010	PCA0010	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	6	35.06	0:DiseaseFree	Negative	Negative	0.1067	6	3	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0011	PCA0011	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	82.17	0:DiseaseFree	Negative	Negative	0.0030	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0012	PCA0012	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	flat	128.43	0:DiseaseFree	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0013	PCA0013	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	10.38	0:DiseaseFree	Positive	Positive	0.0189	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0014	PCA0014	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	76.45	0:DiseaseFree	Positive	Positive	0.0142	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0015	PCA0015	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	2	22.7	0:DiseaseFree	Negative	Positive	0.0022	7	3	4	1	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0016	PCA0016	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	74.22	0:DiseaseFree	Negative	NA	0.0718	8	4	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0017	PCA0017	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	2	104.38	0:DiseaseFree	Negative	Negative	0.0017	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0018	PCA0018	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	1	18.96	0:DiseaseFree	Negative	Positive	0.0894	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0019	PCA0019	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	110.33	1:Recurred	Negative	NA	0.0043	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0020	PCA0020	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	4	56.94	0:DiseaseFree	Positive	Positive	0.0415	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0021	PCA0021	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	2	61.5	0:DiseaseFree	Negative	Positive	0.0461	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0022	PCA0022	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	39.95	1:Recurred	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0023	PCA0023	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	4	10.61	1:Recurred	Negative	NA	0.0095	9	4	5	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0024	PCA0024	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	3.94	1:Recurred	Negative	Negative	0.0023	7	3	4	1	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0025	PCA0025	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	1	68.04	1:Recurred	Negative	Negative	0.0072	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0026	PCA0026	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	78.16	0:DiseaseFree	Negative	Negative	0.0465	7	3	4	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0027	PCA0027	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	116.83	0:DiseaseFree	Negative	Negative	0.0025	6	3	3	2	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0028	PCA0028	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	27.6	1:Recurred	Positive	Positive	0.0984	8	5	3	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0029	PCA0029	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	4	26.68	0:DiseaseFree	Negative	Negative	0.0456	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0030	PCA0030	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	flat	115.09	0:DiseaseFree	Flat	Positive	NA	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0031	PCA0031	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	2	35.35	1:Recurred	Negative	Positive	0.0027	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0032	PCA0032	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	6	3.71	1:Recurred	Negative	Negative	0.1488	9	4	5	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0033	PCA0033	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	69.09	0:DiseaseFree	Negative	Negative	0.0243	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0034	PCA0034	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	1	92.98	1:Recurred	Positive	Positive	0.0199	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0035	PCA0035	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	3	77.8	0:DiseaseFree	Positive	Positive	0.0383	6	3	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0036	PCA0036	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	1	85.32	0:DiseaseFree	Negative	Negative	0.0635	7	4	3	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0037	PCA0037	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	4	104.05	0:DiseaseFree	Negative	Positive	0.0059	7	3	4	1	PRAD	NA	NA	T2A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0038	PCA0038	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	4	100.21	0:DiseaseFree	Positive	Positive	0.0514	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0039	PCA0039	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	2	106.98	0:DiseaseFree	Positive	NA	0.0001	6	3	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0040	PCA0040	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	2	89.5	0:DiseaseFree	Negative	Negative	0.0034	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0041	PCA0041	Prostate Cancer	Prostate Adenocarcinoma	T3A	No	3	80.03	1:Recurred	Negative	NA	0.0731	7	3	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0042	PCA0042	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	5	6.7	1:Recurred	Negative	NA	0.2313	9	4	5	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0043	PCA0043	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	4	20.27	1:Recurred	Positive	NA	0.0209	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0044	PCA0044	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	6	72.28	0:DiseaseFree	Negative	NA	0.1703	7	3	4	1	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0045	PCA0045	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	2	18.0	1:Recurred	Negative	NA	0.0019	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0046	PCA0046	Prostate Cancer	Prostate Adenocarcinoma	T3B	No	4	39.49	1:Recurred	Negative	NA	0.0001	Tx_Effects	NA	NA	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0047	PCA0047	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	6	79.51	0:DiseaseFree	Positive	NA	0.0649	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0048	PCA0048	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	4	40.9	1:Recurred	Negative	NA	0.0000	9	4	5	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0049	PCA0049	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	105.56	0:DiseaseFree	Positive	NA	0.0154	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0050	PCA0050	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	83.85	0:DiseaseFree	Positive	Positive	0.0015	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0051	PCA0051	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	84.83	1:Recurred	Flat	NA	NA	7	4	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0052	PCA0052	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	102.54	0:DiseaseFree	Negative	Positive	0.2189	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0053	PCA0053	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	36.8	0:DiseaseFree	Negative	NA	0.0414	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0054	PCA0054	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	1	2.1	1:Recurred	Positive	Positive	0.0326	8	3	5	NA	PRAD	NA	NA	T3C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0055	PCA0055	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	92.06	0:DiseaseFree	Negative	NA	0.0000	7	4	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0056	PCA0056	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	flat	25.0	0:DiseaseFree	Flat	Negative	NA	6	3	3	1	PRAD	NA	NA	T2A	Tumor	1	Primary	Yes	Sequenom	Male	Unmatched	NA
+prad_mskcc	PCA0057	PCA0057	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	82.86	0:DiseaseFree	Negative	Negative	0.0548	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0058	PCA0058	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	30.19	0:DiseaseFree	Negative	Negative	0.0231	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0059	PCA0059	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	4	38.21	0:DiseaseFree	Negative	NA	0.0096	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0060	PCA0060	Prostate Cancer	Prostate Adenocarcinoma	T3A	No	5	1.81	1:Recurred	Negative	NA	0.0173	9	4	5	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0061	PCA0061	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	63.08	0:DiseaseFree	Negative	NA	0.0145	7	4	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0062	PCA0062	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	42.94	0:DiseaseFree	Negative	Negative	0.0013	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0063	PCA0063	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	5	74.12	0:DiseaseFree	Positive	Positive	0.1348	8	4	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0064	PCA0064	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	4	24.28	0:DiseaseFree	Negative	Negative	0.0150	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0065	PCA0065	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	1	77.37	0:DiseaseFree	Negative	Negative	0.0925	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0066	PCA0066	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	4	77.11	0:DiseaseFree	Negative	Negative	0.0582	7	3	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0067	PCA0067	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	93.18	0:DiseaseFree	Flat	NA	NA	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0068	PCA0068	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	3	45.54	0:DiseaseFree	Negative	Negative	0.0511	7	4	3	1	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0069	PCA0069	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	86.47	0:DiseaseFree	Negative	NA	0.0036	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0070	PCA0070	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	4	79.77	0:DiseaseFree	Positive	NA	0.0866	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0071	PCA0071	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	4	23.92	1:Recurred	Positive	NA	0.0238	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0072	PCA0072	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	1	65.12	0:DiseaseFree	Negative	NA	0.0038	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0073	PCA0073	Prostate Cancer	Prostate Adenocarcinoma	T3A	No	1	13.04	1:Recurred	Positive	Positive	0.1102	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0074	PCA0074	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	3	84.31	0:DiseaseFree	Positive	Positive	0.0466	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0075	PCA0075	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	6	49.35	0:DiseaseFree	Negative	Negative	0.0984	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0076	PCA0076	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	2	84.54	0:DiseaseFree	Negative	NA	0.0107	6	3	3	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0077	PCA0077	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	flat	61.7	0:DiseaseFree	Flat	Negative	NA	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0078	PCA0078	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	82.33	0:DiseaseFree	Positive	NA	0.0151	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0079	PCA0079	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	85.36	0:DiseaseFree	Negative	NA	0.0301	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0080	PCA0080	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	55.39	1:Recurred	Negative	Positive	0.1773	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0081	PCA0081	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	4	9.86	1:Recurred	Negative	Negative	0.0188	7	3	4	NA	PRAD	NA	NA	T4	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0082	PCA0082	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	3	58.97	0:DiseaseFree	Negative	Negative	0.0160	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0083	PCA0083	Prostate Cancer	Prostate Adenocarcinoma	T3	Yes	3	31.8	1:Recurred	Negative	Positive	0.1299	7	4	3	3	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	7.874325761
+prad_mskcc	PCA0084	PCA0084	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	39.66	0:DiseaseFree	Negative	Negative	0.0093	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0085	PCA0085	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	61.44	0:DiseaseFree	Negative	NA	0.0001	6	3	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0086	PCA0086	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	60.85	0:DiseaseFree	Positive	Positive	0.0004	7	3	4	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0087	PCA0087	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	6	56.84	0:DiseaseFree	Positive	Positive	0.0632	7	3	4	1	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0088	PCA0088	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	5	25.13	1:Recurred	Negative	NA	0.0392	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0089	PCA0089	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	70.18	0:DiseaseFree	Positive	Positive	0.0153	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0090	PCA0090	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	48.43	0:DiseaseFree	Positive	Positive	0.0058	7	3	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0091	PCA0091	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	2	69.26	0:DiseaseFree	Negative	NA	0.0000	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0092	PCA0092	Prostate Cancer	Prostate Adenocarcinoma	T3A	Yes	4	16.82	1:Recurred	Negative	Positive	0.1529	8	4	4	2	PRAD	NA	NA	T4	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0093	PCA0093	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	46.42	0:DiseaseFree	Flat	Positive	NA	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0094	PCA0094	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	66.1	0:DiseaseFree	Negative	Negative	0.0000	7	3	4	1	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0095	PCA0095	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	51.58	0:DiseaseFree	Negative	Positive	0.0005	6	3	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0096	PCA0096	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	4	42.38	0:DiseaseFree	Negative	Negative	0.0226	9	4	5	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0097	PCA0097	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	1.87	0:DiseaseFree	Negative	Positive	0.0001	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0098	PCA0098	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	1	8.97	1:Recurred	Negative	NA	0.0003	8	4	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0099	PCA0099	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	4	5.78	0:DiseaseFree	Negative	Negative	0.0255	7	4	3	1	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0100	PCA0100	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	2	38.21	0:DiseaseFree	Negative	Positive	0.0020	7	3	4	1	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0101	PCA0101	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	62.36	0:DiseaseFree	Flat	Negative	NA	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0102	PCA0102	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	0.1	0:DiseaseFree	Positive	NA	0.0239	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0103	PCA0103	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	28.65	1:Recurred	Positive	Positive	0.0006	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0104	PCA0104	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	2	43.47	0:DiseaseFree	Positive	Positive	0.0117	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0105	PCA0105	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	flat	23.0	0:DiseaseFree	Flat	Negative	NA	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0106	PCA0106	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	31.21	1:Recurred	Negative	NA	0.0423	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0107	PCA0107	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	flat	56.15	0:DiseaseFree	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0108	PCA0108	Prostate Cancer	Prostate Adenocarcinoma	T3A	Yes	3	59.14	0:DiseaseFree	Negative	Positive	0.0336	6	3	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0109	PCA0109	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	13.86	0:DiseaseFree	Negative	Negative	0.0082	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0110	PCA0110	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	58.91	0:DiseaseFree	Negative	Negative	0.0000	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0111	PCA0111	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	flat	49.84	0:DiseaseFree	Flat	Positive	NA	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0112	PCA0112	Prostate Cancer	Prostate Adenocarcinoma	T3A	Yes	5	13.21	1:Recurred	Negative	Negative	0.1732	8	4	4	4	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	10.49910101
+prad_mskcc	PCA0113	PCA0113	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	60.45	0:DiseaseFree	Flat	Negative	NA	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0114	PCA0114	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	38.77	0:DiseaseFree	Positive	Positive	0.0856	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0115	PCA0115	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	3	26.22	0:DiseaseFree	Negative	Positive	0.0601	7	3	4	1	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0116	PCA0116	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	4	38.37	0:DiseaseFree	Positive	NA	0.0334	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0117	PCA0117	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	18.83	1:Recurred	Negative	Negative	0.0038	7	3	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0118	PCA0118	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	43.83	0:DiseaseFree	Positive	Positive	0.0025	7	3	4	1	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0119	PCA0119	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	46.49	0:DiseaseFree	Negative	Positive	0.0767	7	4	3	1	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0120	PCA0120	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	62.65	0:DiseaseFree	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0121	PCA0121	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	59.83	0:DiseaseFree	Negative	NA	0	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0122	PCA0122	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	52.47	0:DiseaseFree	Negative	Negative	0.0001	6	3	3	5	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	13.12387627
+prad_mskcc	PCA0123	PCA0123	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	60.06	0:DiseaseFree	Positive	Positive	0.0013	6	3	3	1	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0124	PCA0124	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	flat	55.2	0:DiseaseFree	Flat	Positive	NA	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0125	PCA0125	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	2	61.37	0:DiseaseFree	Negative	Positive	0.0005	7	3	4	1	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0126	PCA0126	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	3	51.85	0:DiseaseFree	Negative	Negative	0.0355	7	3	4	2	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0127	PCA0127	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	4	43.53	0:DiseaseFree	Negative	Negative	0.0766	7	4	3	12	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	31.49730304
+prad_mskcc	PCA0128	PCA0128	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	1	53.82	1:Recurred	Negative	Positive	0.1082	7	4	3	2	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0129	PCA0129	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	4	56.87	0:DiseaseFree	Negative	Negative	0.0461	7	3	4	4	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	10.49910101
+prad_mskcc	PCA0130	PCA0130	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	27.86	1:Recurred	Negative	Positive	0.0877	8	4	4	4	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	10.49910101
+prad_mskcc	PCA0131	PCA0131	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	1	61.24	0:DiseaseFree	Negative	NA	0.0283	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0132	PCA0132	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	2	48.56	0:DiseaseFree	Positive	Positive	0.0371	6	3	3	2	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0133	PCA0133	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	4	28.06	0:DiseaseFree	Negative	Positive	0.0524	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0134	PCA0134	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	flat	8.18	0:DiseaseFree	Flat	Negative	NA	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0135	PCA0135	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	51.65	0:DiseaseFree	Negative	Negative	0.1655	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0136	PCA0136	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	5.72	1:Recurred	Negative	Negative	0.2096	7	4	3	2	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0137	PCA0137	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	35.81	0:DiseaseFree	Negative	NA	0.0098	6	3	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0138	PCA0138	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	1	36.17	0:DiseaseFree	Negative	NA	0.1438	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0139	PCA0139	Prostate Cancer	Prostate Adenocarcinoma	T3B	No	2	1.64	1:Recurred	Positive	NA	0.0009	8	4	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0140	PCA0140	Prostate Cancer	Prostate Adenocarcinoma	T3A	No	5	1.87	1:Recurred	Negative	NA	0.1767	9	4	5	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0141	PCA0141	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	1	41.76	0:DiseaseFree	Positive	Positive	0.0469	7	3	4	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0142	PCA0142	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	34.27	0:DiseaseFree	Negative	NA	0.0011	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0143	PCA0143	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	4	27.83	0:DiseaseFree	Negative	NA	0.0087	7	4	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0144	PCA0144	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	1	37.59	0:DiseaseFree	Negative	Negative	0.0296	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0145	PCA0145	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	48.43	0:DiseaseFree	Negative	Negative	0.0000	7	3	4	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0146	PCA0146	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	50.89	0:DiseaseFree	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0147	PCA0147	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	45.73	0:DiseaseFree	Flat	Negative	NA	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0148	PCA0148	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	58.02	0:DiseaseFree	Negative	NA	0	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0149	PCA0149	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	6	59.17	0:DiseaseFree	Positive	Positive	0.2122	7	3	4	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0150	PCA0150	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	51.35	0:DiseaseFree	Negative	Positive	0.0005	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0151	PCA0151	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	2	47.34	0:DiseaseFree	Negative	Negative	0.0045	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0152	PCA0152	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	2	2.92	1:Recurred	Negative	NA	0.0000	7	4	3	NA	PRAD	NA	NA	T4	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0153	PCA0153	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	58.22	0:DiseaseFree	Negative	NA	0.0140	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0154	PCA0154	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	4	52.17	0:DiseaseFree	Negative	NA	0.0017	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0155	PCA0155	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	4	47.61	0:DiseaseFree	Negative	Negative	0.0595	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0156	PCA0156	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	10.81	0:DiseaseFree	Negative	Negative	0.1352	7	3	4	NA	PRAD	NA	NA	T4	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0157	PCA0157	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	3	39.85	0:DiseaseFree	Negative	Negative	0.0145	6	3	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0158	PCA0158	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	31.61	0:DiseaseFree	Negative	Negative	0.0042	6	3	3	NA	PRAD	NA	NA	T2C	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0159	PCA0159	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	flat	1.41	1:Recurred	Flat	Positive	NA	8	4	4	1	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0160	PCA0160	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	12.98	0:DiseaseFree	Positive	Positive	0.0000	6	3	3	NA	PRAD	NA	NA	T2A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0161	PCA0161	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	19.02	1:Recurred	Negative	Negative	0.0813	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0162	PCA0162	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	3	11.83	0:DiseaseFree	Positive	Positive	0.0731	7	3	4	1	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0163	PCA0163	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	45.37	0:DiseaseFree	Positive	Positive	0.1213	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0164	PCA0164	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	1	54.54	0:DiseaseFree	Negative	Negative	0.0502	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0165	PCA0165	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	30.52	0:DiseaseFree	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0166	PCA0166	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	2	23.39	0:DiseaseFree	Negative	NA	0.0137	7	3	4	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0167	PCA0167	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	4	26.84	0:DiseaseFree	Negative	Positive	0.0389	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0168	PCA0168	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	6	49.02	0:DiseaseFree	Positive	Positive	0.0296	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0169	PCA0169	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	42.94	0:DiseaseFree	Flat	Positive	NA	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0170	PCA0170	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	flat	52.17	0:DiseaseFree	Flat	Positive	NA	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0171	PCA0171	Prostate Cancer	Prostate Adenocarcinoma	T2A	Yes	4	8.84	0:DiseaseFree	Positive	Positive	0.0436	NA	NA	NA	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0172	PCA0172	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	4	30.56	1:Recurred	Negative	Negative	0.0510	9	4	5	NA	PRAD	NA	NA	T4	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0173	PCA0173	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	32.69	0:DiseaseFree	Negative	Negative	0.1481	6	3	3	2	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0174	PCA0174	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	6	43.3	0:DiseaseFree	Negative	Negative	0.1522	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0175	PCA0175	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	flat	36.01	0:DiseaseFree	Flat	Negative	NA	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0176	PCA0176	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	flat	2.56	1:Recurred	Flat	Positive	NA	9	4	5	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0177	PCA0177	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	42.42	0:DiseaseFree	Negative	NA	0.0101	8	4	4	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0178	PCA0178	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	2	37.68	0:DiseaseFree	Negative	Negative	0.0007	6	3	3	NA	PRAD	NA	NA	T2B	Tumor	1	Primary	No	No	Male	Matched	NA
+prad_mskcc	PCA0179	PCA0179	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	2.92	1:Recurred	Negative	Negative	0.2215	9	4	5	NA	PRAD	NA	NA	T3B	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0180	PCA0180	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	6	1.38	1:Recurred	Negative	Negative	0.1282	9	4	5	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0181	PCA0181	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	30.03	0:DiseaseFree	Negative	Negative	0.4243	9	4	5	NA	PRAD	NA	NA	T3A	Tumor	1	Primary	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0182	PCA0182	Prostate Cancer	Prostate Adenocarcinoma	T2	No	5	NA	NA	Negative	Positive	0.3380	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0183	PCA0183	Prostate Cancer	Prostate Adenocarcinoma	T3	No	5	NA	NA	Positive	NA	0.1416	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0184	PCA0184	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	NA	NA	Positive	Positive	0.2404	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0185	PCA0185	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	NA	NA	Positive	NA	0.2927	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0186	PCA0186	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	5	NA	NA	Negative	NA	0.5336	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	No	Male	Matched	NA
+prad_mskcc	PCA0187	PCA0187	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	3	18.0	1:Recurred	Positive	Positive	0.0569	7	4	3	NA	PRAD	NA	NA	T2B	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0188	PCA0188	Prostate Cancer	Prostate Adenocarcinoma	NA	Yes	5	NA	NA	Negative	Positive	0.1848	NA	NA	NA	2	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sequenom	Male	Unmatched	NA
+prad_mskcc	PCA0189	PCA0189	Prostate Cancer	Prostate Adenocarcinoma	T2B	No	6	NA	NA	Positive	Positive	0.0930	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0190	PCA0190	Prostate Cancer	Prostate Adenocarcinoma	NA	No	6	NA	NA	Negative	Negative	0.3128	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0191	PCA0191	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	NA	NA	Positive	NA	0.5236	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	No	Male	Matched	NA
+prad_mskcc	PCA0192	PCA0192	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	5	NA	NA	Negative	NA	0.5704	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	No	Male	Matched	NA
+prad_mskcc	PCA0193	PCA0193	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	5	NA	NA	Positive	Positive	0.1970	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0194	PCA0194	Prostate Cancer	Prostate Adenocarcinoma	NA	Yes	6	NA	NA	Negative	Negative	0.2342	NA	NA	NA	2	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0195	PCA0195	Prostate Cancer	Prostate Adenocarcinoma	T3A	No	5	12.68	1:Recurred	Positive	NA	0.4453	9	4	5	NA	PRAD	NA	NA	T3B	Tumor	1	Metastasis	No	No	Male	Matched	NA
+prad_mskcc	PCA0196	PCA0196	Prostate Cancer	Prostate Adenocarcinoma	T3A	No	6	63.9	1:Recurred	Positive	NA	0.5647	8	4	4	NA	PRAD	NA	NA	T3A	Tumor	1	Metastasis	No	No	Male	Matched	NA
+prad_mskcc	PCA0197	PCA0197	Prostate Cancer	Prostate Adenocarcinoma	NA	No	5	NA	NA	Negative	NA	0.3787	9	4	5	1	PRAD	NA	NA	T4	Tumor	1	Metastasis	Yes	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0198	PCA0198	Prostate Cancer	Prostate Adenocarcinoma	T2A	No	4	72.41	1:Recurred	Positive	NA	0.1141	7	3	4	NA	PRAD	NA	NA	T3B	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0199	PCA0199	Prostate Cancer	Prostate Adenocarcinoma	T4	Yes	5	NA	NA	Negative	Negative	0.3056	9	4	5	1	PRAD	NA	NA	T4	Tumor	1	Metastasis	Yes	Sequenom	Male	Unmatched	NA
+prad_mskcc	PCA0200	PCA0200	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	3	2.89	1:Recurred	Negative	Negative	0.1440	9	4	5	NA	PRAD	NA	NA	T3B	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0201	PCA0201	Prostate Cancer	Prostate Adenocarcinoma	T2C	No	1	4.11	1:Recurred	Negative	Positive	0.0882	8	4	4	NA	PRAD	NA	NA	T3B	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0202	PCA0202	Prostate Cancer	Prostate Adenocarcinoma	T2	No	6	0.1	1:Recurred	Negative	NA	0.1592	7	4	3	NA	PRAD	NA	NA	T3A	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0203	PCA0203	Prostate Cancer	Prostate Adenocarcinoma	T2	No	2	110.16	1:Recurred	Negative	NA	0.0062	8	3	5	NA	PRAD	NA	NA	T2B	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0204	PCA0204	Prostate Cancer	Prostate Adenocarcinoma	NA	No	6	14.36	1:Recurred	Negative	NA	0.4412	7	3	4	NA	PRAD	NA	NA	T2B	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Matched	0
+prad_mskcc	PCA0205	PCA0205	Prostate Cancer	Prostate Adenocarcinoma	NA	No	6	NA	NA	Positive	NA	0.5270	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0206	PCA0206	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	6	1.61	1:Recurred	Negative	Negative	0.1276	8	4	4	NA	PRAD	NA	NA	T4	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0207	PCA0207	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	1.38	1:Recurred	Negative	Negative	0.4686	9	4	5	NA	PRAD	NA	NA	T3A	Tumor	1	Metastasis	No	Sequenom	Male	Matched	NA
+prad_mskcc	PCA0208	PCA0208	Prostate Cancer	Prostate Adenocarcinoma	T1C	Yes	5	11.79	1:Recurred	Positive	Positive	0.6264	NA	NA	NA	NA	PRAD	NA	NA	T3B	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0209	PCA0209	Prostate Cancer	Prostate Adenocarcinoma	T2C	Yes	6	NA	NA	Negative	Negative	0.1722	NA	NA	NA	1	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0210	PCA0210	Prostate Cancer	Prostate Adenocarcinoma	T2B	Yes	5	20.04	1:Recurred	Negative	Negative	0.5453	7	4	3	NA	PRAD	NA	NA	T3C	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0211	PCA0211	Prostate Cancer	Prostate Adenocarcinoma	NA	Yes	6	NA	NA	Negative	Negative	0.7071	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	0
+prad_mskcc	PCA0212	PCA0212	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	NA	NA	Negative	NA	0.6604	NA	NA	NA	1	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Matched	2.624775254
+prad_mskcc	PCA0213	PCA0213	Prostate Cancer	Prostate Adenocarcinoma	NA	Yes	3	64.66	1:Recurred	Negative	Negative	0.7832	9	4	5	2	PRAD	NA	NA	T3C	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	5.249550507
+prad_mskcc	PCA0214	PCA0214	Prostate Cancer	Prostate Adenocarcinoma	T3	No	5	0.1	1:Recurred	Negative	NA	0.2930	8	4	4	NA	PRAD	NA	NA	T3B	Tumor	1	Metastasis	No	No	Male	Matched	NA
+prad_mskcc	PCA0215	PCA0215	Prostate Cancer	Prostate Adenocarcinoma	T3	Yes	6	5.95	1:Recurred	Negative	Negative	0.1355	8	4	4	1	PRAD	NA	NA	T3A	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Unmatched	2.624775254
+prad_mskcc	PCA0216	PCA0216	Prostate Cancer	Prostate Adenocarcinoma	T3C	No	5	41.4	1:Recurred	Negative	NA	0.3906	9	4	5	5	PRAD	NA	NA	T4	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Matched	13.12387627
+prad_mskcc	PCA0217	PCA0217	Prostate Cancer	Prostate Adenocarcinoma	T1C	No	5	NA	NA	Positive	NA	0.2564	NA	NA	NA	NA	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Matched	0
+prad_mskcc	PCA0218	PCA0218	Prostate Cancer	Prostate Adenocarcinoma	NA	No	6	NA	NA	Positive	NA	0.2154	NA	NA	NA	1	PRAD	NA	NA	NA	Tumor	1	Metastasis	Yes	Sanger and Sequenom	Male	Matched	2.624775254
+prad_mskcc	Vcap	Vcap	Prostate Cancer	Prostate Adenocarcinoma	NA	No	NA	NA	NA	Negative	Negative	0.4043	NA	NA	NA	2	PRAD	NA	NA	NA	Cell line	1	NA	Yes	NA	Male	Matched	0.066666667
