@@ -1,32 +1,77 @@
-Prostate Cancer Risk Prediction using Machine Learning
+🧬 Prostate Cancer Risk Prediction using Machine Learning
 
-Overview
+Python
+Machine Learning
+Status
 
-This project applies machine learning techniques to predict prostate cancer risk levels using clinical datasets. The objective is to classify patients into high-risk and low-risk groups based on medical features.
+---
 
-Datasets Used
+📌 Overview
+This project applies Machine Learning techniques to predict prostate cancer risk levels using clinical datasets.  
+The goal is to classify patients into High-Risk and Low-Risk groups based on medical features.
 
-The project analyzes multiple prostate cancer datasets including:
-	•	TCGA (The Cancer Genome Atlas)
-	•	MSKCC dataset
-	•	PSA clinical dataset
+---
 
-Each dataset was processed and analyzed separately to evaluate model performance.
+📊 Datasets Used
+The project analyzes multiple prostate cancer datasets:
 
-Machine Learning Models
+- TCGA Dataset – Genomic cancer dataset  
+- MSKCC Dataset – Clinical cancer research data  
+- PSA Dataset – Prostate-specific antigen clinical data  
 
-The following machine learning algorithms were implemented:
-	•	Logistic Regression
-	•	Random Forest Classifier
-  . Decision Tree
-	•	Support Vector Machine (SVM)
-	•	K-Nearest Neighbors (KNN)
+Each dataset was processed and evaluated separately to compare model performance.
 
-Project Workflow
-	1.	Data preprocessing and cleaning
-	2.	Feature selection
-	3.	Model training and testing
-	4.	Performance evaluation using accuracy and confusion matrix
+---
+
+🤖 Machine Learning Models
+The following algorithms were implemented:
+
+- 🔹 Logistic Regression  
+- 🌲 Random Forest Classifier
+- 🧠 Decision Tree
+- 📈 Support Vector Machine (SVM)  
+- 👥 K-Nearest Neighbors (KNN)
+
+---
+
+⚙️ Project Workflow
+1️⃣ Data preprocessing and cleaning  
+2️⃣ Feature selection and normalization  
+3️⃣ Model training and evaluation  
+4️⃣ Performance analysis using accuracy and confusion matrix  
+
+---
+
+📈 Results
+Model performance was evaluated using:
+
+- Accuracy score  
+- Confusion matrix  
+- Performance comparison graphs  
+
+These results demonstrate how machine learning can assist in prostate cancer risk prediction.
+
+---
+
+🛠 Technologies Used
+- 🐍 Python  
+- 📊 Pandas  
+- 🔢 NumPy  
+- 🤖 Scikit-learn  
+- 📉 Matplotlib  
+
+---
+
+📂 Repository Structure
+code/ → Python scripts for ML models  
+datasets/ → datasets used for analysis  
+accuracy graph/ → accuracy comparison graphs  
+confusion matrix/ → confusion matrix visualizations  
+table/ → result tables
+
+---
+
+⭐ If you find this project useful, feel free to **star the repos
 
 Results
 
